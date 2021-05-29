@@ -1,4 +1,4 @@
-# Crowdfunding Successful Projects
+# Crowdfunding Successful Campaigns
 Kickstarter Crowdfunding Service
 
 Over $2 billion had been raised using the successful crowdsourcing service, Kickstarter, but not every campaign found success. To date, 300,000 campaigns have been launched on Kickstarter, with only a third having made it through the funding process with a positive outcome. Getting funded on Kickstarter required meeting or exceeding a project's initial goals, therefore many organizations spent months reviewing past projects in an attempt to discovering some tips for success. Using 4,000 past campaigns, I organized and analyzed the database to see if I could uncover any insightful hidden trends. As a result of my detailed analysis the following insights were uncovered:
