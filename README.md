@@ -3,6 +3,8 @@ Kickstarter Crowdfunding Service
 
 Over $2 billion had been raised using the successful crowdsourcing service, Kickstarter, but not every campaign found success. To date, 300,000 campaigns have been launched on Kickstarter, with only a third having made it through the funding process with a positive outcome. Getting funded on Kickstarter required meeting or exceeding a project's initial goals, therefore many organizations spent months reviewing past projects in an attempt to discovering some tips for success. Using 4,000 past campaigns, I organized and analyzed the data set in Microsoft Excel. Three measures of central tendency (mean, median, and mode) and summary statistics metrics for describing the variability of the data set along with Pivot Charts were used to see if I could uncover any insightful hidden trends. As a result of my detailed analysis the following insights were uncovered:
 
+# RESULTS OF ANALYSIS
+
 First, three conclusions could be drawn about Kickstarter campaigns?
 
 1.)	Successful campaigns are seasonal. The best time of the year is late April - early May, according to the Pivot Chart Line Graph of months versus number of campaigns.
