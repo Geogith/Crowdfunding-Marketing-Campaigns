@@ -23,9 +23,9 @@ A Stacked Column Pivot Chart based on sub-category, showed plays have the most s
 
 Finally, some limitations of data set:
 
-Why projects are more successful during late April – Early May and seasonally-driven could not be determined.
+  • Why projects are more successful during late April – Early May and seasonally-driven could not be determined.
 
-What makes a project successful other than funding could not be determined.
+  • What makes a project successful other than funding could not be determined.
 
-Why certain countries favor specific campaigns could not be determined.
+  •	Why certain countries favor specific campaigns could not be determined.
 
