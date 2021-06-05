@@ -28,4 +28,9 @@ Finally, some limitations of data set that could not be determined:
   • What makes a project successful other than funding?
 
   •	Why certain countries favor specific campaigns?
+  ______________________________________________________________________________________________________________________________________
+  
+  # Contact:
+  
+    # Email: rocklady4@gmail.com
 
