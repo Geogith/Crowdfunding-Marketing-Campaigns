@@ -10,7 +10,7 @@ _______________________________________________________________________
 The following insights were uncovered:
 1.)	Successful campaigns are seasonal. The best time of the year is late April - early May, according to the Pivot Chart Line Graph of months versus number of campaigns.
 
-![image](https://user-images.githubusercontent.com/67766966/120902516-7631a300-c606-11eb-87ca-1c2e6c66d4df.png)
+![image](https://user-images.githubusercontent.com/67766966/120902553-a9743200-c606-11eb-8945-5a45a0acd9da.png)
 
 
 
