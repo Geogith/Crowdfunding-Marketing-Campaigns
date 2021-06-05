@@ -8,18 +8,18 @@ _______________________________________________________________________
 # RESULTS:
 
 The following insights were uncovered:
+
 1.)	Successful campaigns are seasonal. The best time of the year is late April - early May, according to the Pivot Chart Line Graph of months versus number of campaigns.
 
 ![image](https://user-images.githubusercontent.com/67766966/120902553-a9743200-c606-11eb-8945-5a45a0acd9da.png)
 
-
-
-
-
-
-
 2.)	A Stacked Column Pivot Chart based on category, showed theater campaigns had the most success. Music, Film & Video were the next successful campaigns, respectively.
+
+![image](https://user-images.githubusercontent.com/67766966/120904071-b9444400-c60f-11eb-85cb-df62950008ec.png)
+
 3.)	A Stacked Column Pivot Chart based on sub-category, showed plays have the most success within the theater category.
+
+![image](https://user-images.githubusercontent.com/67766966/120904309-2f957600-c611-11eb-9047-b84ba8ebc82c.png)
 
 Secondly, what are some limitations of this dataset?
 
