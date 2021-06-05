@@ -9,7 +9,7 @@ _______________________________________________________________________
 
 The following insights were uncovered:
 
-1.)	Successful campaigns are seasonal. The best time of the year is late April - early May, according to the Pivot Chart Line Graph of months versus number of campaigns.
+Successful campaigns are seasonal. The best time of the year is late April - early May, according to the Pivot Chart Line Graph of months versus number of campaigns.
 
 ![image](https://user-images.githubusercontent.com/67766966/120902553-a9743200-c606-11eb-8945-5a45a0acd9da.png)
 
@@ -21,7 +21,7 @@ The following insights were uncovered:
 
 ![image](https://user-images.githubusercontent.com/67766966/120904309-2f957600-c611-11eb-9047-b84ba8ebc82c.png)
 
-Secondly, what are some limitations of this dataset?
+Finally, what are some limitations of this dataset?
 
 1.)	Why projects are more successful during late April – Early May and seasonally-driven could not be determined.
 2.)	What makes a project successful other than funding could not be determined.
