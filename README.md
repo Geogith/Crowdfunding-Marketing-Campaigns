@@ -21,9 +21,11 @@ A Stacked Column Pivot Chart based on sub-category, showed plays have the most s
 
 ![image](https://user-images.githubusercontent.com/67766966/120904309-2f957600-c611-11eb-9047-b84ba8ebc82c.png)
 
-Finally, what are some limitations of this dataset?
+Finally, some limitations of this dataset:
 
 Why projects are more successful during late April – Early May and seasonally-driven could not be determined.
+
 What makes a project successful other than funding could not be determined.
+
 Why certain countries favor specific campaigns could not be determined.
 
