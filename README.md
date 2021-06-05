@@ -8,12 +8,12 @@ Over $2 billion was raised using the successful crowdsourcing service, Kickstart
 First, three conclusions could be drawn about Kickstarter campaigns?
 
 1.)	Successful campaigns are seasonal. The best time of the year is late April - early May, according to the Pivot Chart Line Graph of months versus number of campaigns.
-2.)	When I analyzed the data using a Stacked Column Pivot Chart based on category, theater campaigns had the most success. Music and Film & Video are the next successful campaigns, respectively.
-3.)	When I analyzed the data using a Stacked Column Pivot Chart based on sub-category, plays have the most success within the theater category.
+2.)	A Stacked Column Pivot Chart based on category, showed theater campaigns had the most success. Music, Film & Video were the next successful campaigns, respectively.
+3.)	A Stacked Column Pivot Chart based on sub-category, showed plays have the most success within the theater category.
 
 Secondly, what are some limitations of this dataset?
 
-1.)	I don’t know why projects are more successful during late April – Early May and seasonally-driven.
-2.)	I don’t know what makes a project successful other than funding.
-3.)	I don’t know why certain countries favor specific campaigns.
+1.)	Why projects are more successful during late April – Early May and seasonally-driven could not be determined.
+2.)	What makes a project successful other than funding could not be determined.
+3.)	Why certain countries favor specific campaigns could not be determined.
 
