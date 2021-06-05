@@ -32,5 +32,7 @@ Finally, some limitations of data set that could not be determined:
   
   # Contact:
   
-    E-mail: rocklady4@gmail.com
+    Email: 
+    rocklady4@gmail.com
+    
 
